@@ -1,0 +1,20 @@
+11/27/2019 11:17:48 PM - LoginPage - INFO: Elements appeared on the web page
+11/27/2019 11:17:48 PM - LoginPage - INFO: Element Found
+11/27/2019 11:17:49 PM - LoginPage - INFO: Sent data on element with locator: identifierId locatorType: id
+11/27/2019 11:17:49 PM - LoginPage - INFO: Elements appeared on the web page
+11/27/2019 11:17:49 PM - LoginPage - INFO: Element Found
+11/27/2019 11:17:49 PM - LoginPage - INFO: Clicked on element with locator: identifierNext locatorType: id
+11/27/2019 11:17:50 PM - LoginPage - INFO: Elements appeared on the web page
+11/27/2019 11:17:50 PM - LoginPage - INFO: Element Found
+11/27/2019 11:17:50 PM - LoginPage - INFO: Sent data on element with locator: //div[@id='password']/div[1]/div/div[1]/input locatorType: xpath
+11/27/2019 11:17:50 PM - LoginPage - INFO: Elements appeared on the web page
+11/27/2019 11:17:50 PM - LoginPage - INFO: Element Found
+11/27/2019 11:18:03 PM - LoginPage - INFO: Clicked on element with locator: //div[@id='passwordNext']/span/span locatorType: xpath
+11/27/2019 11:18:03 PM - LoginPage - INFO: Element Found
+11/27/2019 11:18:03 PM - LoginPage - INFO: Element Found
+11/27/2019 11:18:03 PM - TestStatus - INFO: ####VERIFICATION SUCCESSFUL :: Login was successful
+11/27/2019 11:18:03 PM - TestStatus - INFO: test_valid_login #### TEST SUCCESSFUL
+11/27/2019 11:18:03 PM - InboxPage - INFO: Elements appeared on the web page
+11/27/2019 11:18:04 PM - InboxPage - INFO: Elements appeared on the web page
+11/27/2019 11:18:04 PM - TestStatus - INFO: ####VERIFICATION SUCCESSFUL :: Subject verified
+11/27/2019 11:18:04 PM - TestStatus - INFO: test_open_first_email #### TEST SUCCESSFUL
