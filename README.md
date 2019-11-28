@@ -6,7 +6,7 @@ Selenium WebDriver Page Object Model framework using Python. Below are the featu
 
 ## Installation and Setup
 1. Install python
-2. Install below packages using pip or pip3 depending on python version:
+2. Install following packages using pip or pip3 depending on python version:
     a)selenium
     b)pytest
     c)pytest-ordering
